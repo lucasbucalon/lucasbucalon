@@ -4,11 +4,11 @@ Olá! Sou Lucas BD
 
 <div>
   <a href="https://github.com/LucasBDoficial">
-<img height="180em"
+<img width="100%"
   src="https://github-readme-stats.vercel.app/api?username=LucasBDoficial&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)" />
     
-<img height="180em"
+<img width="100%"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBDoficial&layout=compact&langs_count=16&&theme=dark"
   media="(prefers-color-scheme: dark)" />
 </div>    
