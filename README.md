@@ -4,11 +4,11 @@ Olá! Sou Lucas BD
 
 <div>
   <a href="https://github.com/LucasBDoficial">
-<img width="100%"
+<img width="50%"
   src="https://github-readme-stats.vercel.app/api?username=LucasBDoficial&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)" />
-    
-<img width="100%"
+
+<img width="50%"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBDoficial&layout=compact&langs_count=16&&theme=dark"
   media="(prefers-color-scheme: dark)" />
 </div>    
@@ -23,9 +23,3 @@ Olá! Sou Lucas BD
  <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
  <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </div>  
-  
-##
-  
-<div>
-  
-</div>
