@@ -3,7 +3,7 @@ Olá! Sou Lucas BD
 ##
 
 <div>
-<img width="100%"
+<img width="70%"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBDoficial&layout=compact&langs_count=16&&theme=dark"
   media="(prefers-color-scheme: dark)" />
 </div>    
