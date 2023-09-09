@@ -1,10 +1,10 @@
 <h1 align="left">Olá, sou Lucas BD</h1>
-<img align="right" width="45%" src="https://raw.githubusercontent.com/gist/LucasBDoficial/014458c54c5bc5d2e5cc6f9e9d248027/raw/46bf46f62496901d01ae7459b4f8e880fb2d10f5/gitcard.svg"/>
+<img align="right" width="42%" src="https://raw.githubusercontent.com/gist/LucasBDoficial/014458c54c5bc5d2e5cc6f9e9d248027/raw/46bf46f62496901d01ae7459b4f8e880fb2d10f5/gitcard.svg"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LucasBDoficial&color=blue" alt="Profile views" /> </p>
 
 <div >
-<img width="45%" src="https://github-readme-stats.vercel.app/api?username=LucasBDoficial&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBDoficial&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=LucasBDoficial&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBDoficial&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
 </div>    
   
 ##
