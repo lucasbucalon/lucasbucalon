@@ -1,4 +1,4 @@
-<h1 align="left">Olá, sou Lucas BD</h1>
+<h1 align="left">Olá, sou Lucas Bucalon</h1>
 <img align="right" width="42%" src="https://raw.githubusercontent.com/gist/LucasBDoficial/014458c54c5bc5d2e5cc6f9e9d248027/raw/ed1d0615fc9407a780d08ecb92958fd7f1b21625/gitcard.svg"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LucasBDoficial&color=blue" alt="Profile views" /> </p>
 
