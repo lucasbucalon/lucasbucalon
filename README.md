@@ -1,5 +1,5 @@
 <h1 align="left">Olá, sou Lucas Bucalon</h1>
-<img align="right" width="42%" src="https://raw.githubusercontent.com/gist/LukasBD/d87e1cf0b54f592c2ee7616178dc5f86/raw/1faafd21db0ef8915e4bf5717a090a36d78e0593/githubcard.svg"/>
+<img align="right" width="42%" src="https://raw.githubusercontent.com/gist/LukasBD/c463b30ce3626539c2ebfcfceef3f74a/raw/6c3519bda06d9e2b62ed2e864f0ddb53411bd70b/githubcard.svg"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LukasBD&color=blue" alt="Profile views" /> </p>
 
 <div >
