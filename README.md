@@ -58,8 +58,6 @@
   </a>
 </p>
 
-</br>
-
 <b> Habilidades - </b>
 
   <img
@@ -111,13 +109,10 @@
     alt="Next.js"
   />
 
-  </br>
-
-  - 💻 Developer
+- 💻 Developer
 - 🎨 Designer
 - 🛜 Marketing
 
-</br>
 
 
 
