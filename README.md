@@ -23,7 +23,7 @@
 
 <div>
   <img
-    width="60%" align="right"
+    width="55%" align="right"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukasBD&layout=compact&theme=dark"
     alt="Linguagens mais usadas por LucasBDoficial"
   />
@@ -31,7 +31,7 @@
 
 </br>
 
-- 💻 Desenvolvedor
+- 💻 Developer
 - 🎨 Designer
 - 🛜 Marketing
 
