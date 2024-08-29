@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>LuKasBD</title>
-  </head>
-  <body>
+
     <h1 align="left">Olá, sou Lucas BD</h1>
     <img
       align="right"
@@ -72,5 +65,4 @@
         />
       </a>
     </p>
-  </body>
-</html>
+
