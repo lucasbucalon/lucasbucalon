@@ -29,9 +29,9 @@
 
 </br>
 
-- 💻 Desenvolvedor Front end Junior
-- 🎨 Entusiasta em Designer (ux/ui)
-- 🛜 Noções de Marketing Digital
+- 💻 Desenvolvedor
+- 🎨 Designer
+- 🛜 Marketing
 
 </br>
 
