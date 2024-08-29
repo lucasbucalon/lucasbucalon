@@ -31,9 +31,8 @@
 
  <b>Contatos - </b>
 
-<p align="left">
-  <a
-    href="https://www.linkedin.com/in/jo%C3%A3o-lucas-bucalon/"
+<div>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-lucas-bucalon/"
     target="_blank"
   >
     <img
@@ -58,7 +57,7 @@
       alt="Facebook"
     />
   </a>
-</p>
+  </div>
 
 <b> Habilidades - </b>
 
