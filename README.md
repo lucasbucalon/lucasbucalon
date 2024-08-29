@@ -109,10 +109,11 @@
     alt="Next.js"
   />
 
-- 💻 Developer
+<div>
+- 💻 Developer      
 - 🎨 Designer
 - 🛜 Marketing
-
+</div>
 
 
 
