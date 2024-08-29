@@ -109,7 +109,7 @@
     alt="Next.js"
   />
 
-<div align="center">
+<div>
 | 💻 Developer | 🎨 Designer | 🛜 Marketing
 </div>
 
