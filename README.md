@@ -29,9 +29,34 @@
   />
 </div>
 
-- 💻 Developer
-- 🎨 Designer
-- 🛜 Marketing
+ <b>Contatos - </b>
+
+<p align="left" style="background: yellow">
+  <a
+    href="https://www.linkedin.com/in/jo%C3%A3o-lucas-bucalon/"
+    target="_blank"
+  >
+    <img
+      align="center"
+      src="https://img.shields.io/badge/-Lucas%20Bucalon-05122A?style=flat&logo=linkedin"
+      alt="LinkedIn"
+    />
+  </a>
+  <a href="https://instagram.com/lucas_bucalon" target="_blank">
+    <img
+      align="center"
+      src="https://img.shields.io/badge/-lucas%20bucalon-05122A?style=flat&logo=instagram"
+      alt="Instagram"
+    />
+  </a>
+  <a href="https://facebook.com/lucasbucalon" target="_blank">
+    <img
+      align="center"
+      src="https://img.shields.io/badge/-Jo%C3%A3o%20Lucas-05122A?style=flat&logo=facebook"
+      alt="Facebook"
+    />
+  </a>
+</p>
 
 </br>
 
@@ -88,33 +113,12 @@
 
   </br>
 
- <b>Contatos - </b>
+  - 💻 Developer
+- 🎨 Designer
+- 🛜 Marketing
 
-<p align="left" style="background: yellow">
-  <a
-    href="https://www.linkedin.com/in/jo%C3%A3o-lucas-bucalon/"
-    target="_blank"
-  >
-    <img
-      align="center"
-      src="https://img.shields.io/badge/-Lucas%20Bucalon-05122A?style=flat&logo=linkedin"
-      alt="LinkedIn"
-    />
-  </a>
-  <a href="https://instagram.com/lucas_bucalon" target="_blank">
-    <img
-      align="center"
-      src="https://img.shields.io/badge/-lucas%20bucalon-05122A?style=flat&logo=instagram"
-      alt="Instagram"
-    />
-  </a>
-  <a href="https://facebook.com/lucasbucalon" target="_blank">
-    <img
-      align="center"
-      src="https://img.shields.io/badge/-Jo%C3%A3o%20Lucas-05122A?style=flat&logo=facebook"
-      alt="Facebook"
-    />
-  </a>
-</p>
+</br>
+
+
 
 
