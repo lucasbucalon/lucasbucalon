@@ -1,43 +1,41 @@
+ <img align="right"
+    src="https://komarev.com/ghpvc/?username=LukasBD&color=orange"
+    alt="Vizualizções"
+  />
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D06C2F&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Ol%C3%A1%2C+sou+Lucas+Bucalon+!!)](https://git.io/typing-svg)
+
+<div align="center" width="100%">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LukasBD&theme=dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=1000)](https://git.io/streak-stats)
+
+</div>
 
 <img
   align="right"
-  width="42%"
+  width="49%"
   src="https://raw.githubusercontent.com/gist/LukasBD/c463b30ce3626539c2ebfcfceef3f74a/raw/6c3519bda06d9e2b62ed2e864f0ddb53411bd70b/githubcard.svg"
   alt="GitCard"
 />
 
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=LukasBD&color=blue"
-    alt="Profile views"
-  />
-</p>
-
 <div>
   <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=LukasBD&show_icons=true&theme=vision-friendly-dark"
-    alt="Estatísticas do LucasBDoficial"
-  />
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukasBD&layout=compact&theme=vision-friendly-dark"
+    width="48%" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukasBD&layout=compact&theme=dark"
     alt="Linguagens mais usadas por LucasBDoficial"
   />
 </div>
 
-## Habilidades
+</br>
 
-<p>
-  <img
-    src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"
-    alt="JavaScript"
-  />
-  <img
-    src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js"
-    alt="Node.js"
-  />
+- 💻 Desenvolvedor Front end Junior
+- 🎨 Entusiasta em Designer (ux/ui)
+- 🛜 Noções de Marketing Digital
+
+</br>
+
+<b> Habilidades - </b>
+
   <img
     src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5"
     alt="HTML"
@@ -45,6 +43,10 @@
   <img
     src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6"
     alt="CSS"
+  />
+  <img
+    src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"
+    alt="JavaScript"
   />
   <img
     src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react"
@@ -70,9 +72,22 @@
     src="https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js"
     alt="Next.js"
   />
-</p>
+  <img
+    src="https://img.shields.io/badge/-sass-05122A?style=flat&logo=sass"
+    alt="Next.js"
+  />
+  <img
+    src="https://img.shields.io/badge/-less-05122A?style=flat&logo=less"
+    alt="Next.js"
+  />
+  <img
+    src="https://img.shields.io/badge/-canva-05122A?style=flat&logo=canva"
+    alt="Next.js"
+  />
 
-## Contatos
+  </br>
+
+ <b>Contatos - </b>
 
 <p align="left" style="background: yellow">
   <a
@@ -100,3 +115,5 @@
     />
   </a>
 </p>
+
+
