@@ -5,22 +5,23 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D06C2F&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Ol%C3%A1%2C+sou+Lucas+Bucalon+!!)](https://git.io/typing-svg)
 
+<img
+  align="center"
+  width="100%"
+  src="https://raw.githubusercontent.com/gist/LukasBD/a4a1533c4b7eceb917ee76a198bb6891/raw/6dab06bc04194c34708d8dded84807ac123230a8/githubcardtwo.svg"
+  alt="GitCard"
+/>
+
+
 <div align="center" width="100%">
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LukasBD&theme=dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=1000)](https://git.io/streak-stats)
 
 </div>
 
-<img
-  align="right"
-  width="49%"
-  src="https://raw.githubusercontent.com/gist/LukasBD/c463b30ce3626539c2ebfcfceef3f74a/raw/6c3519bda06d9e2b62ed2e864f0ddb53411bd70b/githubcard.svg"
-  alt="GitCard"
-/>
-
 <div>
   <img
-    width="48%" 
+    width="50%" align="right"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukasBD&layout=compact&theme=dark"
     alt="Linguagens mais usadas por LucasBDoficial"
   />
