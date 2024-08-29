@@ -23,7 +23,7 @@
 
 <div>
   <img
-    width="50%" align="right"
+    width="60%" align="right"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukasBD&layout=compact&theme=dark"
     alt="Linguagens mais usadas por LucasBDoficial"
   />
