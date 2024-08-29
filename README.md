@@ -49,7 +49,7 @@
       alt="Instagram"
     />
   </a>
-  
+  <strong>
   <a href="https://facebook.com/lucasbucalon" target="_blank">
     <img
       align="center"
@@ -57,6 +57,7 @@
       alt="Facebook"
     />
   </a>
+  </strong>
   </div>
 
 <b> Habilidades - </b>
