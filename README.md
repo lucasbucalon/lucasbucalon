@@ -3,6 +3,8 @@
     alt="Vizualizções"
   />
 
+  </br>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D06C2F&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Ol%C3%A1%2C+sou+Lucas+Bucalon+!!)](https://git.io/typing-svg)
 
 <img
