@@ -29,8 +29,6 @@
   />
 </div>
 
-</br>
-
 - 💻 Developer
 - 🎨 Designer
 - 🛜 Marketing
