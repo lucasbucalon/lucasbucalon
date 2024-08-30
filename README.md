@@ -62,8 +62,6 @@
     />
   </a>
  </p>
-  
-  </br>
 
 <b> Habilidades - </b>
 
