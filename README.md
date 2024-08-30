@@ -31,7 +31,7 @@
 
  <b>Contatos - </b>
 
-<div>
+<p>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-lucas-bucalon/"
     target="_blank"
   >
@@ -41,7 +41,9 @@
       alt="LinkedIn"
     />
   </a>
+</p>
 
+<p>
   <a href="https://instagram.com/lucas_bucalon" target="_blank">
     <img
       align="center"
@@ -49,7 +51,9 @@
       alt="Instagram"
     />
   </a>
+</p>
 
+<p>
   <a href="https://facebook.com/lucasbucalon" target="_blank">
     <img
       align="center"
@@ -57,7 +61,7 @@
       alt="Facebook"
     />
   </a>
-  </div>
+ </p>
   
   </br>
 
