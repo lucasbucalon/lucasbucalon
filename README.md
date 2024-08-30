@@ -60,6 +60,8 @@
   </a>
   </div>
 
+  </br>
+
 <b> Habilidades - </b>
 
   <img
