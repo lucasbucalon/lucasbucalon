@@ -21,6 +21,8 @@
 
 </div>
 
+</br>
+
 <div>
   <img
     width="60%" align="right"
