@@ -21,8 +21,6 @@
 
 </div>
 
-</br>
-
 <div>
   <img
     width="60%" align="right"
@@ -30,6 +28,8 @@
     alt="Linguagens mais usadas por LucasBDoficial"
   />
 </div>
+
+</br>
 
  <b>Contatos - </b>
 
