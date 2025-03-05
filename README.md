@@ -108,6 +108,6 @@
   />
 
 <div align="center">
-💻 Developer 🖌️ Designer 📢 Marketing
+💻 Web Developer 🖌️ Web Designer 📢 Web Marketing
 </div>
 
