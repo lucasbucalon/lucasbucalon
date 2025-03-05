@@ -24,8 +24,8 @@
 <div>
   <img
     width="60%" align="right"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukasBD&layout=compact&theme=dark"
-    alt="Linguagens mais usadas por LucasBDoficial"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbucalon&layout=compact&theme=dark"
+    alt="Linguagens mais usadas por Lucas Bucalon"
   />
 </div>
 
