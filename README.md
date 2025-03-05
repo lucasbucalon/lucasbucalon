@@ -1,5 +1,5 @@
  <img align="right"
-    src="https://komarev.com/ghpvc/?username=LukasBD&color=orange"
+    src="https://komarev.com/ghpvc/?username=lucasbucalon&color=orange"
     alt="Vizualizções"
   />
 
@@ -10,14 +10,14 @@
 <img
   align="center"
   width="100%"
-  src="https://raw.githubusercontent.com/gist/LukasBD/a4a1533c4b7eceb917ee76a198bb6891/raw/6dab06bc04194c34708d8dded84807ac123230a8/githubcardtwo.svg"
+  src="https://raw.githubusercontent.com/gist/lucasbucalon/a4a1533c4b7eceb917ee76a198bb6891/raw/6dab06bc04194c34708d8dded84807ac123230a8/githubcardtwo.svg"
   alt="GitCard"
 />
 
 
 <div align="center" width="100%">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LukasBD&theme=dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=1000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lucasbucalon&theme=dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=1000)](https://git.io/streak-stats)
 
 </div>
 
@@ -35,7 +35,7 @@
  <b>Contatos - </b>
  
 <p>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-lucas-bucalon/"
+  <a href="https://www.linkedin.com/in/lucasbucalon"
     target="_blank"
   >
     <img
