@@ -15,9 +15,9 @@
 />
 
 
-<div align="center" width="100%" >
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lucasbucalon&theme=dark&hide_border=falso&locale=pt_BR&short_numbers=falso&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+<div align="center" width="100%">
+ 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lucasbucalon&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
@@ -52,7 +52,7 @@
   <a href="https://instagram.com/lucas_bucalon" target="_blank">
     <img
       align="center"
-      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagr&logoColor=white"
       alt="Instagram"
     />
   </a>
@@ -62,7 +62,7 @@
   <a href="https://facebook.com/lucasbucalon" target="_blank">
     <img
       align="center"
-      src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
+      src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebo&logoColor=white"
       alt="Facebook"
     />
   </a>
@@ -89,10 +89,6 @@
   <img
     src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"
     alt="Git"
-  />
-  <img
-    src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"
-    alt="Visual Studio Code"
   />
   <img
     src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"
