@@ -64,7 +64,11 @@
     alt="Next.js"
   />
 
-<div align="center">
+  </br>
+</br>
+
+<div align="center" width="100%">
+ 
 💻 Web Developer 🖌️ Web Designer 📢 Web Marketing
  
 </br>
