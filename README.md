@@ -29,41 +29,6 @@
 
 </br>
 
-
- <b>Contatos - </b>
- 
-<p>
-  <a href="https://www.linkedin.com/in/lucasbucalon"
-    target="_blank"
-  >
-    <img
-      align="center"
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
-</p>
-
-<p>
-  <a href="https://instagram.com/lucas_bucalon" target="_blank">
-    <img
-      align="center"
-      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagr&logoColor=white"
-      alt="Instagram"
-    />
-  </a>
-</p>
-
-<p>
-  <a href="https://facebook.com/lucasbucalon" target="_blank">
-    <img
-      align="center"
-      src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebo&logoColor=white"
-      alt="Facebook"
-    />
-  </a>
-</p>
-
 <b> Habilidades - </b>
 
   <img
