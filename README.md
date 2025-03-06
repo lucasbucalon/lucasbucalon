@@ -15,11 +15,7 @@
 />
 
 
-<div align="center" width="100%">
- 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lucasbucalon&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-</div>
+<a  min-height="100px" href="https://git.io/streak-stats"><img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=lucasbucalon&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 
 
 
