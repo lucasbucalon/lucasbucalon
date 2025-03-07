@@ -65,3 +65,9 @@
 <p>📢 Web Marketing</p>
 
 
+ <img
+  width="20%" align="left"
+    src="https://raw.githubusercontent.com/gist/lucasbucalon/b962586b3ff3000fe405d2004772dd8a/raw/a36e7debf9350e374a2b41b46ae2c69dfe186a71/astrogit.svg"
+    alt="astronauta"
+  />
+
