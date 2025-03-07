@@ -82,12 +82,20 @@
 </br>
 
 <div align="center" width="100%">
+
+</br>
+</br>
+
  
  <a  href="http://link.mercadopago.com.br/lucasbucalon" target="_blank">
-    <img
+
+  </br>
+</br>
+
+   <img
   align="center"
-  width="100%"
-  src="https://raw.githubusercontent.com/gist/lucasbucalon/19c0b60ae1e0e37381889ee03bfac458/raw/a2c5972573c2ff74a40a8e37535a5e49c92188a1/pixcart.svg"
+  width="90%"
+  src="https://raw.githubusercontent.com/gist/lucasbucalon/19c0b60ae1e0e37381889ee03bfac458/raw/93dc17a73e3b1ad6b7ee20193abbb7d09b6c99d2/pixcart.svg"
   alt="GitCard"
 />
   </a>
