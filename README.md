@@ -7,6 +7,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D06C2F&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Ol%C3%A1%2C+sou+Lucas+Bucalon+!!)](https://git.io/typing-svg)
 
+
 <img
   align="center"
   width="100%"
@@ -16,12 +17,8 @@
 
 
 <div>
-
 <a   href="https://git.io/streak-stats"><img align="right" width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=lucasbucalon&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
-
 </div>
-
-
 
 <div>
   <img
@@ -29,9 +26,6 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbucalon&layout=compact&theme=dark"
     alt="Linguagens mais usadas por Lucas Bucalon"
   />
-
- </br>
-</br>
 </div>
 
 </br>
@@ -77,16 +71,5 @@
 <p>💻 Web Developer</p> 
 <p>🖌️ Web Designer</p> 
 <p>📢 Web Marketing</p>
-
- </br>
-
-<a  href="http://link.mercadopago.com.br/lucasbucalon" target="_blank">
-   <img
-  align="left"
-  width="36%"
-  src="https://raw.githubusercontent.com/gist/lucasbucalon/19c0b60ae1e0e37381889ee03bfac458/raw/14f63bb660bac4b79f2a66fb8c53feb50f0d4abc/pixcart.svg"
-  alt="GitCard"
-/>
-  </a>
 
 
