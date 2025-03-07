@@ -64,7 +64,7 @@
     alt="Next.js"
   />
 
-<div align="center" width="100%">
+
 
  
 <p>💻 Web Developer</p> 
@@ -74,9 +74,15 @@
 </br>
 </br>
 
- <a href="http://link.mercadopago.com.br/lucasbucalon" target="_blank">
-    <p width="100%" padding="20px 0px">🪙 Contribui para o crescimento do meu Perfil 🪙</p>
+<div align="center" width="100%">
+ 
+ <a  href="http://link.mercadopago.com.br/lucasbucalon" target="_blank">
+    <h2 >🪙 Contribui para o crescimento do meu Perfil 🪙</h2>
   </a>
+
+</br>
+</br>
+  
 </div>
 
 
