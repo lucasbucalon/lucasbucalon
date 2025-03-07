@@ -10,12 +10,16 @@
 <img
   align="center"
   width="100%"
-  src="https://raw.githubusercontent.com/gist/lucasbucalon/a4a1533c4b7eceb917ee76a198bb6891/raw/6dab06bc04194c34708d8dded84807ac123230a8/githubcardtwo.svg"
+  src="https://raw.githubusercontent.com/gist/lucasbucalon/8a169cc6c1c9bc42a0a531d1ea71eb66/raw/1b2d497c2eb0a1f6754f0a1adfde924c63876726/gitcard.svg"
   alt="GitCard"
 />
 
 
-<a  min-height="100px" href="https://git.io/streak-stats"><img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=lucasbucalon&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+<div>
+
+<a   href="https://git.io/streak-stats"><img align="right" width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=lucasbucalon&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+
+</div>
 
 
 
@@ -25,6 +29,9 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbucalon&layout=compact&theme=dark"
     alt="Linguagens mais usadas por Lucas Bucalon"
   />
+
+ </br>
+</br>
 </div>
 
 </br>
