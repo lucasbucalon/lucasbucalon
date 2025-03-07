@@ -77,29 +77,16 @@
 <p>💻 Web Developer</p> 
 <p>🖌️ Web Designer</p> 
 <p>📢 Web Marketing</p>
- 
-</br>
-</br>
 
-<div align="center" width="100%">
+ </br>
 
-</br>
-</br>
-
- 
- <a  href="http://link.mercadopago.com.br/lucasbucalon" target="_blank">
+<a  href="http://link.mercadopago.com.br/lucasbucalon" target="_blank">
    <img
-  align="center"
-  width="90%"
-  src="https://raw.githubusercontent.com/gist/lucasbucalon/19c0b60ae1e0e37381889ee03bfac458/raw/93dc17a73e3b1ad6b7ee20193abbb7d09b6c99d2/pixcart.svg"
+  align="left"
+  width="36%"
+  src="https://raw.githubusercontent.com/gist/lucasbucalon/19c0b60ae1e0e37381889ee03bfac458/raw/14f63bb660bac4b79f2a66fb8c53feb50f0d4abc/pixcart.svg"
   alt="GitCard"
 />
   </a>
-
-</br>
-</br>
-  
-</div>
-
 
 
