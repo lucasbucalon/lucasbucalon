@@ -84,7 +84,12 @@
 <div align="center" width="100%">
  
  <a  href="http://link.mercadopago.com.br/lucasbucalon" target="_blank">
-    <h2 >🪙 Contribui para o crescimento do meu Perfil 🪙</h2>
+    <img
+  align="center"
+  width="100%"
+  src="https://raw.githubusercontent.com/gist/lucasbucalon/19c0b60ae1e0e37381889ee03bfac458/raw/a2c5972573c2ff74a40a8e37535a5e49c92188a1/pixcart.svg"
+  alt="GitCard"
+/>
   </a>
 
 </br>
