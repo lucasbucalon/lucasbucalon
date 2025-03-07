@@ -88,10 +88,6 @@
 
  
  <a  href="http://link.mercadopago.com.br/lucasbucalon" target="_blank">
-
-  </br>
-</br>
-
    <img
   align="center"
   width="90%"
