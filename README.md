@@ -1,4 +1,4 @@
-<img 
+<img align="right"
     src="https://komarev.com/ghpvc/?username=lucasbucalon&color=orange"
     alt="Vizualizções"
   />
