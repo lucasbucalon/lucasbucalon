@@ -13,10 +13,6 @@
 />
 
 <div>
-<a   href="https://git.io/streak-stats"><img align="right" width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=lucasbucalon&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
-</div>
-
-<div>
   <img
     width="60%" align="right"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbucalon&layout=compact&theme=dark"
