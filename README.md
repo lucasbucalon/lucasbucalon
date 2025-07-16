@@ -8,7 +8,7 @@
 <img
   align="center"
   width="100%"
-  src="https://raw.githubusercontent.com/gist/lucasbucalon/8a169cc6c1c9bc42a0a531d1ea71eb66/raw/1b2d497c2eb0a1f6754f0a1adfde924c63876726/gitcard.svg"
+  src="https://raw.githubusercontent.com/gist/lucasbucalon/5f1a80117b25cc343326b34eb19e4dff/raw/faab1687c41763ae52ab442d66055ad0c13ac23b/githubcard03.svg"
   alt="GitCard"
 />
 
