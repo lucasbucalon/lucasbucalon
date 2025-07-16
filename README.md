@@ -49,9 +49,9 @@
     alt="Next.js"
   />
 
-<p >💻 Web Developer</p> 
+<p >💻 Front-end Developer</p> 
 <p>🖌️ Web Designer</p> 
-<p>📢 Web Marketing</p>
+<p>📢 Inbound Marketing</p>
 
  <img 
   width="15%" 
