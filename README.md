@@ -8,7 +8,7 @@
 <img
   align="center"
   width="100%"
-  src="https://raw.githubusercontent.com/gist/lucasbucalon/5f1a80117b25cc343326b34eb19e4dff/raw/faab1687c41763ae52ab442d66055ad0c13ac23b/githubcard03.svg"
+  src="https://raw.githubusercontent.com/gist/lucasbucalon/91dc7afcab43dad9f5340bd897e54b87/raw/7ced068fb9aded2ac3cfde08e295126fab0c4698/cardwork.svg"
   alt="GitCard"
 />
 
@@ -25,27 +25,31 @@
 <b> Habilidades - </b>
 
   <img
-    src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
+    src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=&logoColor=white"
     alt="HTML"
   />
   <img
-    src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
+    src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=&logoColor=white"
     alt="CSS"
   />
   <img
-    src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
+    src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=&logoColor=black"
     alt="JavaScript"
   />
   <img
-    src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
+    src="https://img.shields.io/badge/NodeJs-F7DF1E?style=for-the-badge&logo=&logoColor=black"
+    alt="JavaScript"
+  />
+  <img
+    src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=&logoColor=61DAFB"
     alt="React"
   />
   <img
-    src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"
+    src="https://img.shields.io/badge/Figma-1e1e1e?style=for-the-badge&logo=&logoColor=white"
     alt="Figma"
   />
   <img
-    src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"
+    src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=&logoColor=white"
     alt="Next.js"
   />
 
